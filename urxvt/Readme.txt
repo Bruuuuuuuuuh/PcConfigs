@@ -11,3 +11,6 @@ If you can't use "ç", edit (if this file doesn't exist, create him) ~/.xinitrc 
 export LANG=pt_BR.UTF-8
 
 Make sure the locale configs are the same in /etc/environment and ~/.xinitrc.
+
+
+Oh, and if the neofetch's image doesn't load, change the font size. 8 or 9 should work.
