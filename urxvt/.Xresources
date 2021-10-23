@@ -1,7 +1,5 @@
-! Do not re-arrange !
-
 ! URxvt Configuration
-URxvt.font:                        xft: URW Gothic:size=10:autohint=true, xft: Noto Emoji
+URxvt.font:                        xft: URW Gothic:size=8:autohint=true, xft: Noto Emoji
 URxvt.geometry:                   300x600
 URxvt.internalBorder:             10
 URxvt.cursorBlink:                true
